@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434167964620",
+    "firebase_url": "https://ex86fcm-3e896.firebaseio.com",
+    "project_id": "ex86fcm-3e896",
+    "storage_bucket": "ex86fcm-3e896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434167964620:android:b7d8173b40e477a096f369",
+        "android_client_info": {
+          "package_name": "com.c282804.ex86firebasecloudmessagepushteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434167964620-mqbal1tbfcccpat6l17o509dd65u01gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZhEpQ03F3873bCpYN39ecxGUSurmKs9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434167964620-mqbal1tbfcccpat6l17o509dd65u01gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

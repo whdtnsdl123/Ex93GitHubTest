@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <movie>
+        <no>1</no>
+        <title>Alien</title>
+        <genre>SF,  action, adventure </genre>
+
+        <item>
+            <no>2</no>
+            <title>avatar</title>
+            <genre>SF, action, </genre>
+
+        </item>
+
+        <item>
+            <no>3</no>
+            <title>han</title>
+            <genre>comic,Romans</genre>
+
+        </item>
+
+        <item>
+            <no>4</no>
+            <title>mask</title>
+            <genre>SF,comic,action</genre>
+        </item>
+
+
+
+
+
+    </movie>
+
+</PreferenceScreen>

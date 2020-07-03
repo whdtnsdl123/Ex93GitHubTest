@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item android:id="@+id/Shopping"
+        android:title="쇼핑"
+        android:icon="@drawable/ic_local_grocery_store_black_24dp"/>
+
+    <item android:id="@+id/Scrab"
+        android:title="스크랩"
+        android:icon="@drawable/ic_offline_pin_black_24dp"/>
+
+    <item android:id="@+id/R"
+        android:title="알림"
+        android:icon="@drawable/ic_offline_pin_black_24dp"/>
+
+    <item android:id="@+id/Talk"
+        android:title="토크"
+        android:icon="@drawable/ic_mode_comment_black_24dp"/>
+
+
+
+
+
+</menu>

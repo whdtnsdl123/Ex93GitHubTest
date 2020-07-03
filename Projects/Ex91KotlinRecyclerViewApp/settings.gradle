@@ -1,0 +1,2 @@
+rootProject.name='Ex91KotlinRecyclerViewApp'
+include ':app'

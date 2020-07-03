@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FF0000"
+    tools:context=".MainActivity">
+
+
+
+    <!-- 뷰크기 ,글 , 글 크기 , 글 스타일 , 글 컬러 , 배경, 패딩,마진 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello world!"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        android:textColor="#FF00DD"
+        android:background="#8C8C8C"
+        android:paddingLeft="115dp"
+        android:layout_marginBottom="10dp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="반가워요"
+        android:background="@drawable/koala"
+        android:padding="10dp"/>
+    <!--visivillity : 뷰가 보여지는지 여부    -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Good android"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:background="#0000ff"
+        android:visibility="invisible"/>
+
+    <!--정렬-->
+    <!--gravity : View 안에 있는 내용물(Content)의-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="garavity"
+        android:gravity="center"
+        android:background="#0000FF"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nice"
+        android:background="#FF0000"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="안녕하세요 , 긴 글의 결우 한 줄에 출력 할 떄 칸이 모자를 수 있다. 그럴 땐 자동 줄바꿈이 됨."
+        android:maxLines="1"
+        android:ellipsize="end"/>
+
+
+<!--    autoLink속성-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="http://www.naver.com"
+        android:autoLink="web"
+        android:typeface="serif"/>
+<!-- xml리소스(string.xml)로 텍스트 설정하기 :res폴더>values폴더>string.xml파일 문자열 데이터 생성-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_app_name"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+

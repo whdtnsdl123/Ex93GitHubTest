@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IntroActivity"
+    android:background="#7ECF82">
+
+    <com.iambedant.text.OutlineTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="패턴 영어 233"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:outlineSpotShadowColor="@color/colorPrimary"
+        android:outlineProvider="background"
+        android:fontFamily="@font/joongnajochelight"
+        android:textColor="#FFFFFFFF"/>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156297643727",
+    "firebase_url": "https://ex84c2828firestroge.firebaseio.com",
+    "project_id": "ex84c2828firestroge",
+    "storage_bucket": "ex84c2828firestroge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156297643727:android:14e3e534f528dbb97d59ba",
+        "android_client_info": {
+          "package_name": "com.c282804.ex84firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156297643727-aqm2qf3tj6ib3h516absqvipf1p5548v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9aarlvGq2EsLvRobUKjGrTqllUOl2bq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156297643727-aqm2qf3tj6ib3h516absqvipf1p5548v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

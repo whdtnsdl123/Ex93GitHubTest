@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955054874464",
+    "firebase_url": "https://jonghoon-20eaf.firebaseio.com",
+    "project_id": "jonghoon-20eaf",
+    "storage_bucket": "jonghoon-20eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955054874464:android:bc00f163ac1a1e916e8805",
+        "android_client_info": {
+          "package_name": "com.c282804.ex85firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955054874464-vrc12ajhtu4h4q18jo4its6lbvro7ph3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAp3NolpuVZxLPXCEpzOHNktFxw3Z0xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955054874464-vrc12ajhtu4h4q18jo4its6lbvro7ph3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
